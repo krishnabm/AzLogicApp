@@ -1,5 +1,5 @@
-# AzLogicApp
-Small script to enable/disable logic apps within a resource group.
+ # AzLogicApp
+Small script to enable/disable Azure logic apps within a resource group.
 
 ## Prerequisites
 * Azure CLI. Get it [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
