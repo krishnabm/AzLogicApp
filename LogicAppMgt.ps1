@@ -3,8 +3,8 @@ param(
 [switch]$disable
 )
 
-$subscription = "GD-EXT-FARMSLAND-Ravivd-Vibansal"
-$resourceGroup = "rg-aue-ms-test-native"
+$subscription = "your-subscription-name"
+$resourceGroup = "your-resource-group-name"
 $isDisableMode = 0
 
 az account set -s "$subscription"
