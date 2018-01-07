@@ -8,9 +8,8 @@ Small script to enable/disable logic apps within a resource group.
 ## Usage
 1. Change the `$subscription` and `$resourceGroup` vars in the script to your subscription name and resource group
 2. Run the script -
-`<path>\LogicAppMgt.ps1 -disable`
 
-OR
-
-`<path>\LogicAppMgt.ps1 -enable`
+  `<path>\LogicAppMgt.ps1 -disable`
+  OR
+  `<path>\LogicAppMgt.ps1 -enable`
 
